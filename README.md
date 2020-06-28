@@ -17,7 +17,7 @@ where each console window, after pressing ESC, entered hold mode and you could e
 much like turning each window into a notepad window.
 
 Doing the full work with curses to implement the exact behavior as in rio, is too much work
-and probably does not worth it. Ted is a compromise. Each line is edited with readline(3)
+and probably not worth it. Ted is a compromise. Each line is edited with readline(3)
 and the final text is formatted and written to a file or to standard output. Also ted cannot be
 used to edit an existing file. If you already have a file, then ed(1) or vim are better choices.
 Ted is for creating new files or appending to existing ones, from the console, using some neat
