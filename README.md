@@ -105,4 +105,4 @@ Ted is released under the GNU public license version 3.
 
 - Ted gets confused if tabstop and length are small and about equal.
 - It would be nice to have some markup for shell escapes like `< > |` to import or export text.
-- Not sure if it worths the effort to support editing of existing files. Ed is the standard text editor.
+- Not sure if it's worth the effort to support editing of existing files. Ed is the standard text editor.
